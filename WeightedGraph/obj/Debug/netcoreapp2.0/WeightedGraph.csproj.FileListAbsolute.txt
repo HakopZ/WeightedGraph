@@ -1,0 +1,11 @@
+C:\Users\szari\source\repos\WeightedGraph\WeightedGraph\bin\Debug\netcoreapp2.0\WeightedGraph.deps.json
+C:\Users\szari\source\repos\WeightedGraph\WeightedGraph\bin\Debug\netcoreapp2.0\WeightedGraph.runtimeconfig.json
+C:\Users\szari\source\repos\WeightedGraph\WeightedGraph\bin\Debug\netcoreapp2.0\WeightedGraph.runtimeconfig.dev.json
+C:\Users\szari\source\repos\WeightedGraph\WeightedGraph\bin\Debug\netcoreapp2.0\WeightedGraph.dll
+C:\Users\szari\source\repos\WeightedGraph\WeightedGraph\bin\Debug\netcoreapp2.0\WeightedGraph.pdb
+C:\Users\szari\source\repos\WeightedGraph\WeightedGraph\obj\Debug\netcoreapp2.0\WeightedGraph.csprojAssemblyReference.cache
+C:\Users\szari\source\repos\WeightedGraph\WeightedGraph\obj\Debug\netcoreapp2.0\WeightedGraph.csproj.CoreCompileInputs.cache
+C:\Users\szari\source\repos\WeightedGraph\WeightedGraph\obj\Debug\netcoreapp2.0\WeightedGraph.AssemblyInfoInputs.cache
+C:\Users\szari\source\repos\WeightedGraph\WeightedGraph\obj\Debug\netcoreapp2.0\WeightedGraph.AssemblyInfo.cs
+C:\Users\szari\source\repos\WeightedGraph\WeightedGraph\obj\Debug\netcoreapp2.0\WeightedGraph.dll
+C:\Users\szari\source\repos\WeightedGraph\WeightedGraph\obj\Debug\netcoreapp2.0\WeightedGraph.pdb
